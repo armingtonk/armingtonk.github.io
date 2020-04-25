@@ -1,5 +1,8 @@
+<!DOCTYPE html>
+
 <html>
 <body>
-<?php echo "This is the start of Keith's Page"; ?>
+  Hello World. This is Keith.
+
 </body>
 </html>
